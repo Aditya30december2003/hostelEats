@@ -27,8 +27,8 @@ function App() {
     <ShopContextProvider>
         <Navbar />
         <Routes>
-        <Route path='/' element={<SignUp />} />
-        <Route path='/home' element={<Home />} />
+        <Route path='/signin' element={<SignUp />} />
+        <Route path='/' element={<Home />} />
         <Route path='/pizza' element={<Pizza />} />
         <Route path='/burger' element={<Burger />} />
         <Route path='/rolls' element={<Rolls />} />
