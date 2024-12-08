@@ -7,7 +7,7 @@ import {BiLogoGmail} from 'react-icons/bi'
 const Bottom = () => {
   return (
     <div className=' bg-purple-500  mx-auto w-full'>
-    <h1 className='font-bold text-[1.7rem] w-full mx-auto text-center text-white pt-20'>Aditya Jain</h1>
+    <h1 className='font-bold text-[1.7rem] w-full mx-auto text-center text-white pt-20'>Arjun Nigam</h1>
 
     <div>
       <ul className='py-4 flex gap-2 w-full md:w-1/3  md:mx-auto'>
